@@ -1,0 +1,2 @@
+/home/guvo6384/programmiersprachen-helloworld/build/source/CMakeFiles/tests.dir
+/home/guvo6384/programmiersprachen-helloworld/build/source/CMakeFiles/helloworld.dir
